@@ -1,4 +1,4 @@
-foundation_datepicker_rails
+foundation-datepicker-rails
 ===
 
 A ruby gem that implements the `foundation-datepicker` functionality. The project can be found on its [Github](https://github.com/najlepsiwebdesigner/foundation-datepicker) page.
@@ -9,7 +9,7 @@ A ruby gem that implements the `foundation-datepicker` functionality. The projec
 Add this to your Gemfile:
 
 ```
-gem 'foundation_datepicker_rails'
+gem 'foundation-datepicker-rails'
 ```
 
 and run `bundle install`.

@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Foundation::Datepicker::Rails::VERSION
   spec.authors     = ["Kurt Mueller", "Peeyush Kumar"]
   spec.email       = ["mueller.128@osu.edu", "peeyush.hsuyeep@gmail.com"]
-  spec.homepage    = "http://github.com/KurtRMueller/foundation_datepicker_rails"
+  spec.homepage    = "https://github.com/peeyush1234/foundation-datepicker-rails"
   spec.summary     = "Rails gem for foundation-datepicker."
   spec.description = "A simple assets gem for foundation-datepicker, whose documentation can be found here: http://foundation-datepicker.peterbeno.com/example.html"
 
